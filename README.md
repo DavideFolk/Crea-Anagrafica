@@ -3,7 +3,7 @@
 Programma per creare un csv di import anagrafica partendo da un file excel
 
 novità della versione:
-- nuova UX
+- nuova UI
 - è possibile annullare la selezione di un campo
 - export e import dei campi scelti
 
